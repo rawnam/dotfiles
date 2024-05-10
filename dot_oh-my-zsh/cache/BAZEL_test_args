@@ -1,0 +1,1 @@
+_bazel_test_args='*::label-test:_bazel_complete_target_label_test'

@@ -1,0 +1,6 @@
+window:
+  startup_mode: Fullscreen
+  dimensions:
+    columns: 80
+    lines: 24
+
